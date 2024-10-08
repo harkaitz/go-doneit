@@ -1,0 +1,1 @@
+DoneIt is a lightweight Go library that determines whether a task, represented by a string, has been completed or not.
